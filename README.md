@@ -16,3 +16,35 @@ The Semantic Resume Search Web App is designed to allow users to search for rele
 - **Streamlit**: For web app development.
 - **Sentence Transformers**: For semantic search and model training.
 - **Python**: For scripting and backend logic.
+
+
+## Setup Instructions
+
+### Prerequisites
+
+- Python 3.7+
+- Pip (Python package installer)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/semantic-resume-search.git
+   cd semantic-resume-search
+
+2. **Install dependencies::**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Download and prepare resume data:**
+
+   -Place your resume PDFs in the data folder.
+
+4. **Train the model:**
+   ```bash
+   python train_model.py
+
+5. **Run the web app:**
+   ```bash
+   streamlit run app.py
+
