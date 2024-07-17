@@ -131,3 +131,44 @@ The Semantic Resume Search Web App is designed to allow users to search for rele
 - Enhanced search functionality with additional filters.
 - Improved UI/UX for the web app.
 - Debugged and tested web app.
+
+### Week 4: Finalization and Documentation
+
+#### Day 22-24: Final Touches
+
+- Conducted final optimizations for the model and web app, focusing on speed and accuracy.
+- Ensured the web app is responsive and works well on different devices.
+
+#### Day 25-26: Documentation
+
+- Documented the code and functionalities in detail.
+- Created user manuals and guides for the web app, explaining how to use the search functionality and upload new resumes.
+
+#### Day 27-28: Deployment Preparation
+
+- Prepared the web app for deployment, setting up a server and configuring the environment.
+- Tested the deployment process to ensure smooth operation.
+
+#### Day 29-30: Deployment and Final Review
+
+- Deployed the web app to a cloud platform (e.g., AWS or Heroku).
+- Conducted a final review and gathered feedback from a few users to identify any last-minute improvements.
+
+### Deliverables:
+
+- Finalized and optimized web app.
+- Comprehensive project documentation.
+- Deployed web app accessible to users.
+
+## Final WebApp: 
+![Screenshot 2024-07-17 214325](https://github.com/user-attachments/assets/69df780b-7e19-4574-a6b1-ea25bac014d6)
+![Screenshot 2024-07-17 214421](https://github.com/user-attachments/assets/cdd00d83-4b65-40fe-959f-7516b63b59fa)
+![Screenshot 2024-07-17 214439](https://github.com/user-attachments/assets/a9a646f2-a5cd-4247-9faf-74719b410e6d)
+![Screenshot 2024-07-17 214518](https://github.com/user-attachments/assets/74d3136d-1849-4584-839b-56d19db0db44)
+![Screenshot 2024-07-17 214539](https://github.com/user-attachments/assets/51a6fb53-5aa0-4752-ba91-3573dd662fad)
+
+
+## Contact: 
+
+- Email:  patelakshar1107@gmail.com.
+- LinkedIn: https://www.linkedin.com/in/akshar-patel-6b03b71ba/
