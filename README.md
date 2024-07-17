@@ -86,3 +86,48 @@ The Semantic Resume Search Web App is designed to allow users to search for rele
 - Initialized project repository with a README file.
 - Collected and preprocessed sample resumes.
 - Prepared the training dataset for the model.
+
+### Week 2: Model Training and Web App Development
+
+#### Day 8-10: Model Training
+
+- Trained the Sentence Transformer model using the prepared dataset.
+- Saved the trained model for later use in the web app.
+
+#### Day 11-12: Initial Web App Setup
+
+- Set up the Streamlit web app framework in app.py.
+- Created a basic interface with a search bar and a display area for results.
+
+#### Day 13-14: Integrate Model with Web App
+
+- Loaded the trained model in the web app.
+- Implemented search functionality to query the model and display relevant resumes based on user input.
+
+### Deliverables:
+
+- Trained Sentence Transformer model.
+- Initial version of the Streamlit web app with basic search functionality.
+
+### Week 3: Feature Enhancement and Testing
+
+#### Day 15-17: Feature Enhancement
+
+- Improved the search functionality with additional filters such as experience level and specific skills.
+- Added functionality to allow users to upload new resumes and update the database.
+
+#### Day 18-19: User Interface and Experience
+
+- Enhanced the web app UI for better user experience, including layout adjustments and styling.
+- Implemented error handling and edge case management to ensure robust performance.
+
+#### Day 20-21: Testing and Debugging
+
+- Performed thorough testing of the web app, including unit tests for individual components and end-to-end testing of the user flow.
+- Fixed bugs and improved performance based on test results.
+
+### Deliverables:
+
+- Enhanced search functionality with additional filters.
+- Improved UI/UX for the web app.
+- Debugged and tested web app.
