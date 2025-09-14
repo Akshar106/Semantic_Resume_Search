@@ -170,5 +170,5 @@ The Semantic Resume Search Web App is designed to allow users to search for rele
 
 ## Contact: 
 
-- Email:  patelakshar1107@gmail.com.
-- LinkedIn: https://www.linkedin.com/in/akshar-patel-6b03b71ba/
+- Email:  patelakshar1104@gmail.com.
+- LinkedIn: (https://www.linkedin.com/in/akshar-patel11/)
